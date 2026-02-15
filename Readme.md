@@ -1,4 +1,4 @@
-# CSL7360 Problem 4: Text Classification (Sports vs. Politics)
+# CSL7640 Problem 4: Text Classification (Sports vs. Politics)
 
 **Student Name:** Kalkar Tejas Prasad  
 **Roll No:** B23CM1051  
